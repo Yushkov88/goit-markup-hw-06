@@ -489,6 +489,9 @@ button {
   display: flex;
   align-items: baseline;
 }
+.container-address {
+  flex-grow: 1;
+}
 .span-logo-footer {
   font-family: 'Raleway';
   color: #ffffff;
